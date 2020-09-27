@@ -5,7 +5,7 @@
     "samples": [
       {
         "name": "TV1",
-		"logo_uri": "https://upload.wikimedia.org/wikipedia/commons/3/38/TV7_logo.png",
+		"logo_uri": "https://vignette.wikia.nocookie.net/logopedia/images/8/8d/RTM1_logo_1987.png/revision/latest?cb=20100924162202",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
@@ -40,7 +40,7 @@
       },
       {
         "name": "TV9",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",
+		"logo_uri": "https://pbs.twimg.com/profile_images/761406262/tv92010logo_400x400.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
