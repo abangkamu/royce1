@@ -5,10 +5,10 @@
     "samples": [
       {
         "name": "TV1",
+        "logo_uri": "https://2.bp.blogspot.com/-rBum0y_9BMA/VqybLc2mj4I/AAAAAAAABmc/z9K8yVybJRs/s790/tv3%2Bonline%2Bstreaming.PNG",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4",
-        "logo_uri": "https://2.bp.blogspot.com/-rBum0y_9BMA/VqybLc2mj4I/AAAAAAAABmc/z9K8yVybJRs/s790/tv3%2Bonline%2Bstreaming.PNG",
       },
       {
         "name": "TV2",
