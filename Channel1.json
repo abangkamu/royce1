@@ -26,21 +26,21 @@
       },
       {
         "name": "NTV7",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/ntv7.png",
+		"logo_uri": "https://upload.wikimedia.org/wikipedia/commons/3/38/TV7_logo.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
         "name": "8TV",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/8tv.png",
+		"logo_uri": "https://vignette.wikia.nocookie.net/logopedia/images/6/68/Tv8_Yeni_Logo.png/revision/latest/scale-to-width-down/340?cb=20160310161553",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
         "name": "TV9",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",
+		"logo_uri": "https://e7.pngegg.com/pngimages/747/476/png-clipart-tv9-nusantara-television-channel-streaming-media-others-miscellaneous-television-thumbnail.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
